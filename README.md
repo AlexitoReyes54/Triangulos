@@ -15,6 +15,17 @@ Clase Figura:
 Clase Triangulo:
 
 ![Alt text](https://res.cloudinary.com/dvklp7oks/image/upload/v1612303090/triangulos/tri1_xuwigc.png "triangulo")
+
 ![Alt text](https://res.cloudinary.com/dvklp7oks/image/upload/v1612303090/triangulos/tri2_haiqwt.png "triangulo")
+
 Getters y setters de la clase Triangulo:
+
 ![Alt text](https://res.cloudinary.com/dvklp7oks/image/upload/v1612303090/triangulos/setGet_demaqs.png "set and get")
+
+Clase Main de Java:
+
+![Alt text](https://res.cloudinary.com/dvklp7oks/image/upload/v1612303090/triangulos/Main_s0wtvm.png "set and get")
+
+Ejecucion del programa:
+
+![Alt text](https://res.cloudinary.com/dvklp7oks/image/upload/v1612303090/triangulos/out_sj1idg.png "set and get")
