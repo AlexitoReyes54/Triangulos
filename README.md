@@ -1,4 +1,4 @@
-# triangulos
+# Triangulos
 Tarea de Analisis y diseno orientado a objetos - Area de un triangulo (Java)
 
 
