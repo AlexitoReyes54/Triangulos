@@ -1,6 +1,5 @@
 # triangulos
-
-- Tarea de Analisis y diseno orientado a objetos - 
+Tarea de Analisis y diseno orientado a objetos
 
 
 Pedro Jose Ramirez Rodriguez
